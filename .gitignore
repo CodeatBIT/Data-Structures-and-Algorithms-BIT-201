@@ -12,3 +12,6 @@
 
 # For Mac User
 .DS_Store
+
+# VS CODE FILES
+.vscode
